@@ -1,0 +1,3 @@
+rails: bundle exec rails s --port 3000
+assets: yarn run dev
+db: postgres -D db/pgdata

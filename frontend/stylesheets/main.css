@@ -1,0 +1,14 @@
+#service-status {
+  border: 1px solid #333;
+  padding: 10px;
+}
+
+#service-status p {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+#service-status .count-number {
+  color: blue;
+  font-weight: bold;
+}
